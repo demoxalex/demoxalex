@@ -8,14 +8,10 @@
 
 <b><h2>Technologies I have an experience in</h2></b>
 <div class="flex-container">
-<img src="https://i.ibb.co/qD05LPK/Screenshot-1.png" width="60" height="60">
-<img src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" width="60" height="60">
+<img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="60" height="60">
+<img src="https://i.ibb.co/QYfBVgd/png-transparent-logo-css-css3.png" width="60" height="60">
 <img src="https://i.ibb.co/zxHKT08/jquery-logo-vector-download.jpg" width="60" height="60">
 <img src="https://i.ibb.co/MCff4yS/Unofficial-Java-Script-logo-2-svg.png" width="60" height="60">
-<img src="https://i.ibb.co/2ZVXt03/Screenshot-3.png" width="60" height="60">
-<img src="https://i.ibb.co/QYfBVgd/png-transparent-logo-css-css3.png" width="60" height="60">
-<img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="60" height="60">
-<img src="https://www.klaasnienhuis.nl/wp/wp-content/uploads/2014/01/Git-Logo-2Color-770x321.jpg" width="60" height="60">
 <br>
 <b><h2>Code editor I use</h2></b>
 <div class="flex-container">
