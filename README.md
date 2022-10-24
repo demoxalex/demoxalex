@@ -18,7 +18,7 @@
 <img src="https://pngset.com/images/vscode-icons-horizontal-label-text-alphabet-word-transparent-png-2658501.png" width="60" height="60">
 </div><br>
 <h2>📫 Social networks</h2>
-Twitter - https://twitter.com/dailydoseofbc <br>
+Twitter - https://twitter.com/DailyDoseOfweb <br>
 Instagram - https://www.instagram.com/demoxalex/ <br>
 <br>
 <b><h2>Websites/Tutorials I have used frequently during my journey in this field</h2></b>
