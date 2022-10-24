@@ -11,6 +11,7 @@
 <img src="https://i.ibb.co/QYfBVgd/png-transparent-logo-css-css3.png" width="60" height="60">
 <img src="https://i.ibb.co/zxHKT08/jquery-logo-vector-download.jpg" width="60" height="60">
 <img src="https://i.ibb.co/MCff4yS/Unofficial-Java-Script-logo-2-svg.png" width="60" height="60">
+<img src="https://i.ibb.co/HrW0PJg/React.png" width="60" height="60">
 <br>
 <b><h2>Code editor I use</h2></b>
 <div class="flex-container">
@@ -25,6 +26,7 @@ Instagram - https://www.instagram.com/demoxalex/ <br>
 - https://stackoverflow.com<br>
 - https://freecodecamp.org<br>
 - https://youtube.com<br><br>
+- https://scrimba.com<br><br>
 <div>
 <img src="https://66.media.tumblr.com/4bd8e6bdd5599a390cd7199a5f4d2cbd/977ca883a9c49235-a0/s1280x1920/da727bcc0d3d5590fd5c57be4a7fe59a977f4d32.gif" width="200">
 <img src="https://i.ibb.co/F3zHg9h/Dangerous-Sociable-Galago-size-restricted.gif" width="270">
