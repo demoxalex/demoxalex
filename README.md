@@ -1,6 +1,6 @@
 <h2> Hi, I’m Leqso 👇</h2>
 - 👀 interested in high level Programming languages <br>
-- 🌱 currently learning jQuery/JavaScript <br>
+- 🌱 currently learning React/JavaScript <br>
 - 💞️ looking to collaborate on interesting projects, <b> feel free to dm me </b> <br><br>
 
 ![hi-hello](https://user-images.githubusercontent.com/68108917/170674086-56358049-3a22-4b5b-8ef1-aacae010fc6d.gif)
