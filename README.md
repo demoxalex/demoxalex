@@ -20,6 +20,9 @@
 Twitter - https://twitter.com/DailyDoseOfweb <br>
 Instagram - https://www.instagram.com/demoxalex/ <br>
 <br>
+<b><h2>My Certificates</h2></b>
+<a target="_blank" href="https://www.coursera.org/account/accomplishments/verify/MX9K4MA872QW"<img src="https://i.ibb.co/tB2TXYt/image-2022-12-20-170009887.png" width="248"></a>
+<br>
 <b><h2>Websites/Tutorials I have used frequently during my journey in this field</h2></b>
 - https://w3schools.com<br>
 - https://stackoverflow.com<br>
