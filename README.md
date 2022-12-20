@@ -21,7 +21,9 @@ Twitter - https://twitter.com/DailyDoseOfweb <br>
 Instagram - https://www.instagram.com/demoxalex/ <br>
 <br>
 <b><h2>My Certificates</h2></b>
-<a target="_blank" href="https://www.coursera.org/account/accomplishments/verify/MX9K4MA872QW"<img src="https://i.ibb.co/tB2TXYt/image-2022-12-20-170009887.png" width="248"></a>
+<a target="_blank" href="https://www.coursera.org/account/accomplishments/verify/MX9K4MA872QW"><img src="https://i.ibb.co/tB2TXYt/image-2022-12-20-170009887.png" width="250"></a>
+<a target="_blank" href="https://freecodecamp.org/certification/Leqso/responsive-web-design"><img src="https://i.ibb.co/1Mt92pq/image-2022-12-20-170422445.png" width="250"></a>
+<a target="_blank" href="https://www.freecodecamp.org/certification/Leqso/javascript-algorithms-and-data-structures"><img src="https://i.ibb.co/h8KDSj2/image-2022-12-20-170624708.png" width="250"></a>
 <br>
 <b><h2>Websites/Tutorials I have used frequently during my journey in this field</h2></b>
 - https://w3schools.com<br>
